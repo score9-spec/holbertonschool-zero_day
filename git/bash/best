@@ -1,5 +1,2 @@
 #!/bin/bash
-echo "Version from update_script branch"
-echo "This is the updated content"
-echo "Additional line from update_script"
-echo "Best School"  # <-- Ajoutez cette ligne
+echo "Best School"
